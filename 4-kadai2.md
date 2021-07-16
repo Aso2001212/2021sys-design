@@ -1,4 +1,4 @@
-´´´uml
+```uml
 @startuml
 start
 :体力=10;
@@ -9,5 +9,5 @@ else(false)
 endif
 end
 @enduml
-´´´
+```
 
